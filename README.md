@@ -1,4 +1,4 @@
-The source code of studybox.io landing page
+The source code of https://studybox.io
 
 This website is generated with Hugo
 
