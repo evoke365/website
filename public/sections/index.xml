@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on studybox.io</title>
+    <link>/sections/</link>
+    <description>Recent content in Sections on studybox.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Step 1 - taking notes</title>
+      <link>/sections/step1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/step1/</guid>
+      <description>It takes a few seconds to note down something in your Studybox. Vocabularies, Phrases, anything you want to remember.</description>
+    </item>
+    
+    <item>
+      <title> Step 2 - That&#39;s it</title>
+      <link>/sections/step2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/step2/</guid>
+      <description>That&amp;rsquo;s right, there is no step 2! Studybox creates a revision schedule for every note you have taken. Your notes will be sent to your email inbox just before you are about to forget them.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "studybox.io"
+theme = "terrassa"
+
+[params.cta] # Call To Action
+    show = true
+    cta = "Try Beta"
+    link = "beta" # relevant URL
+    
