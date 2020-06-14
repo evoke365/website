@@ -9,4 +9,4 @@ menu: main
 
 # Terrassa
 ## wants to study French but she has a busy schedule. 
-## studybox.io has helped her to memorize vocabularies.
+## studybox.io has helped her to memorize thousands of new words in just a couple of minutues everyday.
