@@ -11,21 +11,15 @@
     
     
     <item>
-      <title> Step 1 - taking notes</title>
-      <link>/sections/step1/</link>
+      <title>Showcase</title>
+      <link>/showcase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sections/step1/</guid>
-      <description>It takes a few seconds to note down something in your Studybox. Vocabularies, Phrases, anything you want to remember.</description>
-    </item>
-    
-    <item>
-      <title> Step 2 - That&#39;s it</title>
-      <link>/sections/step2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sections/step2/</guid>
-      <description>That&amp;rsquo;s right, there is no step 2! Studybox creates a revision schedule for every note you have taken. Your notes will be sent to your email inbox just before you are about to forget them.</description>
+      <guid>/showcase/</guid>
+      <description>Step 1 - take notes
+It takes a few seconds to note down something in your Studybox. Vocabularies, Phrases, anything you want to remember.
+Step 2 - get reminded
+After your note are added to Studybox, a revision schedule will be created. Your notes will be sent to your email inbox just before you are about to forget them.</description>
     </item>
     
   </channel>

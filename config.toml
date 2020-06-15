@@ -7,4 +7,3 @@ theme = "terrassa"
     show = true
     cta = "Try Beta"
     link = "beta" # relevant URL
-    
