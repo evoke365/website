@@ -7,14 +7,18 @@ menu: main
 weight: 2
 ---
 
+#
+
+It takes 2 steps to remember everything:
+
 Step 1 - take notes
 
-It takes a few seconds to note down something in your Studybox. Vocabularies, Phrases, anything you want to remember.
-
-![take notes screenshot.](./images/step1.png)
+It takes a few seconds to note down something in your Studybox such as vocabularies, phrases, concepts etc. Anything you want to remember.
 
 Step 2 - get reminded
 
 After your note are added to Studybox, a revision schedule will be created. Your notes will be sent to your email inbox just before you are about to forget them.
 
-![get reminded screenshot.](./images/step2.png)
+#
+
+![showcase screenshot.](./images/steps.png)
