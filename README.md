@@ -1,1 +1,4 @@
-The source code of https://studybox.io powered by Hugo and @danielkvist
+The source code of https://evoke365.net 
+
+- powered by Hugo
+- website template by @danielkvist
