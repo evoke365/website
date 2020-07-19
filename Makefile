@@ -5,4 +5,4 @@ server:
 	hugo server
 
 deploy:
-	aws s3 sync public/ s3://studybox.io --acl public-read
+	aws s3 sync public/ s3://evoke365.net --acl public-read
