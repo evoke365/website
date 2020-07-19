@@ -9,4 +9,4 @@ menu: main
 
 # Remember more study less
 ## Alison wants to study French but she has a busy schedule. 
-## studybox.io has helped her to memorize thousands of new words in just a couple of minutues everyday.
+## evoke 365 has helped her to memorize thousands of new words in just a couple of minutues everyday.

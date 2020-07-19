@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "studybox.io"
+title = "evoke 365"
 theme = "terrassa"
 
 [params.cta] # Call To Action
